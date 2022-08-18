@@ -1,0 +1,25 @@
+** Create files index.html, style.css and app.js files
+
+**populate head, meta and title tags into document
+
+**Get lato font from google using the link tag 
+
+**Apply the lato css font-family property in the style.css files
+
+** create img folder and populate with project images.
+
+** populate the body element with nav tag objects and image
+
+**input nav element styles in css file 
+
+**input styles for navTop class element.
+
+**input styles for serach class element
+
+**input styles for searchInput class for input element
+
+**style place holder in search input element using searchInput class
+
+**style limited offer class
+
+**populate element with navBttom class to populate the application links
