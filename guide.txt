@@ -23,3 +23,37 @@
 **style limited offer class
 
 **populate element with navBttom class to populate the application links
+
+** apply styles for navBottom class element
+
+**apply styles to menuItem class
+
+** create a new div after nav element with class of slider and populate sub divs
+
+** apply styles for slider
+
+** apply clip-path polygon styling to slider class using (https://bennettfeely.com/clippy/)
+
+** duplicate sliderItem class element to form 5 individual components
+
+** apply style to sliderWrapper class
+
+** apply style to sliderItem class
+
+**apply positioning styles to sliderTitle class
+
+** apply positioning style for sliderPrice class
+
+** apply styles for sliderBg class
+
+** insert z-index into sliderTitle, sliderPrice and sliderImg classes
+
+** apply style to buyButton class 
+
+** apply hover styling to buyButton class
+
+** remove background-color from slideBg class and style the sliderItem class using nth child implementation targeting the sliderBg class for the 5 items.
+
+** apply style for sliderItem class using nth child implementation targeting sliderPrice class
+
+** insert script element before the closing body tag of index.html file to brng in app.js
