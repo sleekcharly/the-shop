@@ -56,4 +56,12 @@
 
 ** apply style for sliderItem class using nth child implementation targeting sliderPrice class
 
-** insert script element before the closing body tag of index.html file to brng in app.js
+** insert script element before the closing body tag of index.html file to bring in app.js
+
+** Select the sliderWrapper class using a querySelector
+
+** Select all items with the menuItem class using the querySelectorAll function
+
+** perform a forEach loop over the menuItems to applay a css transform feature on the wrapper class items.
+
+** remove the horizontal scroll bar by applying overflow: hidden property to the slider class style in style.css file
