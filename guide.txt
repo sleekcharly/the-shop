@@ -65,3 +65,13 @@
 ** perform a forEach loop over the menuItems to applay a css transform feature on the wrapper class items.
 
 ** remove the horizontal scroll bar by applying overflow: hidden property to the slider class style in style.css file
+
+** add new features element in index.html file after the slider div element
+
+** add individual feature elemtents under the features element
+
+** apply css styles for features, feature, featureIcon, featureTitle and featureDesc classes
+
+** create a new div for product class after the features div and populate
+
+** apply styling for product, productImg, productDetails, productTitle, productDesc, colors, sizes, color, color:last-child, size, and productButton classes
