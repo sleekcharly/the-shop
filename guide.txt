@@ -104,3 +104,40 @@
 ** Add an anchor tag element to all BUY NOW buttons in sliderWrapper to link to the product component
 
 ** add smooth transition; go to style.css and add scroll behavior smooth styling to top level html tag
+
+
+*** Shoe sizes ***
+** Add a new loop  for currentShoeSizes in app.js to select shoe sizes
+
+
+**** Buy now modal ****
+** add a new div element with class of payment after productDetails element and populate from soure code
+
+** addstyling for payment class in style.css. Also apply box shadow from "https://cssgenerator.org/box-shadow-css-generator.html" link
+
+** style payTitle class
+
+** style label element
+
+** style payInput class
+
+** style payInput placeholder
+
+** create a new h1 element with class "card Information" after address label and input
+
+** add div for card icons wih class of "cardIcons"
+
+** add input element for password after cardIcons class element
+
+** add a div element of class  "cardInfo" after password input and populate from source code 
+** add a button element with class of paybButton after cardInfo element
+
+** add a span element with a class of close after the checkout button
+
+** In style.css apply styling for the following classes (cardIcons, cardIcon, cardInfo, sm, payButton and close)
+
+** edit payment class styling, change display to none
+
+** create querySelectors to target productButton, payment and close class elements.
+
+** add eventListeners to productButton and close button class elements

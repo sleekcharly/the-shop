@@ -135,3 +135,20 @@ currentProductSizes.forEach((size, index) => {
     size.style.color = "white";
   });
 });
+
+// use querySelector to get and modify the button elements
+const productButton = document.querySelector(".productButton");
+const payment = document.querySelector(".payment");
+const close = document.querySelector(".close");
+
+// display modal on click
+productButton.addEventListener("click", () => {
+  // display payment class element
+  payment.style.display = "flex";
+});
+
+// close modal on click
+close.addEventListener("click", () => {
+  // close paymet class element
+  payment.style.display = "none";
+});
