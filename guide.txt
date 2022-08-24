@@ -75,3 +75,24 @@
 ** create a new div for product class after the features div and populate
 
 ** apply styling for product, productImg, productDetails, productTitle, productDesc, colors, sizes, color, color:last-child, size, and productButton classes
+
+** create an array of product objects in app.js file.
+
+** create  variable for chosenProduct
+
+** inside meunItems loop, assign chosen product to the index
+
+** use querySelector to target and change the Product element and sub elements.
+
+** change to currentProduct parameters with given object properties, title, price, img, color
+
+** loop over each of the navigation menu items to apply css transform functionality when there is a click event.
+
+** Assign chosenProduct to products index in the loop.
+
+** change texts of currentProduct when the click event occurs.
+
+** assign new colors on each item when the navigation click event occurs.
+
+** create a seperate loop to control the change in product color when selected using the color element selector. change the image src when clicked.
+
