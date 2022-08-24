@@ -96,3 +96,11 @@
 
 ** create a seperate loop to control the change in product color when selected using the color element selector. change the image src when clicked.
 
+
+**** Create functionality for buy button *******
+
+** In index.html, add an id attribute to the product element.
+
+** Add an anchor tag element to all BUY NOW buttons in sliderWrapper to link to the product component
+
+** add smooth transition; go to style.css and add scroll behavior smooth styling to top level html tag

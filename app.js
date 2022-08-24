@@ -121,3 +121,17 @@ currentProductColors.forEach((color, index) => {
     currentProductImg.src = chosenProduct.colors[index].img;
   });
 });
+
+//  create a loop to change styling on show size button clicks
+currentProductSizes.forEach((size, index) => {
+  size.addEventListener("click", () => {
+    // do this to make the styling unique for each button
+    currentProductSizes.forEach((size) => {
+      size.style.backgroundColor = "white";
+      size.style.color = "black";
+    });
+    // for selected size
+    size.style.backgroundColor = "black";
+    size.style.color = "white";
+  });
+});
