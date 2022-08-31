@@ -141,3 +141,22 @@
 ** create querySelectors to target productButton, payment and close class elements.
 
 ** add eventListeners to productButton and close button class elements
+
+** add a new element with a class of gallery just above the app.js script element and populate from source
+
+** add stylying for galley, galleryItem, and galleryImg class elements 
+
+** add a new element with a class of newSeason just above the script element and populate with first and third nsItem class elemtent 
+
+** populate the newSeason class element with second nsItem class element and add an id of "nav" to the nav element above 
+
+** add styling for newSeason, nsItem, nsImg, nsImg, nsTitle, and nsButton classes respectively
+
+** add a new div element and populate its content from source
+
+** add styling for footer section classes
+
+** apply media queries styling for mobile devices
+
+
+>>>> END <<<<<<
